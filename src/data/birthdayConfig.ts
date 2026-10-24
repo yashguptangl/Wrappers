@@ -51,6 +51,7 @@ export const birthdayConfig: BirthdayConfig = {
     paragraphs: [
       "Happy Birthday to the most special sister in my life! ❤️",
       "You are more than just my sister — you are a beautiful part of my world, a source of happiness, and someone who makes life brighter just by being in it.",
+      "Aur haan, ek zaroori birthday resolution: thoda kam lada karo! Apni mummy aur bhai se fight nahi karte... hamesha aise hi pyari aur cute ban ke raha karo! 😜🫶🏻",
       "I wish you endless happiness, good health, success, beautiful memories, and all the love your heart can hold. May every dream you have slowly turn into reality, and may you always have a reason to smile.",
       "No matter how much we grow up or how life changes, you will always have a special place in my heart.",
       "Keep smiling, keep shining, and always remember how precious you are."
@@ -123,7 +124,7 @@ export const birthdayConfig: BirthdayConfig = {
       icon: "Sparkles",
       title: "Your Crazy & Cute Nature 🦋",
       highlight: "Fun & Unmatched",
-      description: "From hilarious laughter fits to cute little expressions, life is never dull when you are around!"
+      description: "From funny drama to silly nok-jhok (par haan, mummy aur bhai se thoda kam lada karo!), life is never dull when you are around!"
     },
     {
       id: "reason-4",
